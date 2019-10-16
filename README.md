@@ -1,1 +1,8 @@
-This is the Readme for Sample-Finder
+ ______________________________________
+< This is the Readme for Sample-Finder >
+ --------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
